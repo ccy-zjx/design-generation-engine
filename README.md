@@ -1,4 +1,4 @@
-# Design Generation Engine (DGE)
+![DGE Cover](cover.png)# Design Generation Engine (DGE)
 
 > Instead of generating pixels, we generate **design structure**.
 
